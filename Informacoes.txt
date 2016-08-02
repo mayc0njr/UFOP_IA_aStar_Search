@@ -29,5 +29,11 @@ Casas (Mapa)
 Dificuldade das casas e Poder dos dragões são 
 configurados dentro da aplicação.
 
+Função "Objetivo" para derrotar as casas.
+Tempo gasto = Dificuldade / (Soma do poder dos dragões Usados).
+Ex: Braavos, dificuldade = 60
+Dragão: Drogon, poder 1.5.
+Tempo gasto = 60 / 1.5 = 40.
+
 
 Dracarys!!!
