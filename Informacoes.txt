@@ -1,0 +1,33 @@
+Trabalho Busca Heuristica Inteligencia Artificial
+Game of Thrones.
+
+Davidson Nunes
+Maycon Miranda
+
+Linguagem: JAVA.
+Codificação do Texto Usada: UTF-8
+
+função main encontra-se na classe got_01/GoT_01.
+
+Terrenos:
+Nao Passaveis.
+	I = Gelo. - peso: 176400
+	M = Night's Watch Wall. - peso: 176400
+Passaveis.
+	P = Muro Comum. - peso: 100
+	A = Agua - peso: 10
+	G = Grama - peso: 5
+	T = Terra - peso: 1.
+Casas (Mapa)
+	D = Daenerys (Posicao Inicial). - peso: 0
+	B = Braavos - peso: 0
+	H = Highgarden - peso: 0
+	C = Casterly Rock - peso: 0
+	W = Winterfell - peso: 0
+	K = King's Landing - peso: 0
+
+Dificuldade das casas e Poder dos dragões são 
+configurados dentro da aplicação.
+
+
+Dracarys!!!
