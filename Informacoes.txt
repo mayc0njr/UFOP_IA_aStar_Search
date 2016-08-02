@@ -1,5 +1,5 @@
 Trabalho Busca Heuristica Inteligencia Artificial
-Game of Thrones.
+Game of Thrones
 
 Davidson Nunes
 Maycon Miranda

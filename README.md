@@ -1,7 +1,7 @@
 ﻿# UFOP_IA_aStar_Search
 Implementação de um trabalho prático de busca heurística para a disciplina de Inteligência Artificial.
 
-Trabalho Busca Heuristica Inteligencia Artificial com o tema Game of Thrones.
+Trabalho Busca Heuristica Inteligencia Artificial. Tema: Game of Thrones.
 Objetivo: Criar um agente capaz de guiar a Daenerys Targaryen para derrotar as Cinco casas e impedir os White Walkers.
 
 Alunos:
