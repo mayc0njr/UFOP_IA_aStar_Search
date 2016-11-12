@@ -7,7 +7,7 @@
 \____|__  /  /____  >|__| (____  |__|     /_______  /\___  (____  |__|   \___  |___|  /
         \/        \/           \/                 \/     \/     \/           \/     \/
 </pre>        
-Implementation of a project of a heuristic search to the class of Artificial Intelligence.
+Implementation of a heuristic search to the class of Artificial Intelligence.
 
 School Work, Heuristic Search Artificial Intelligence about HBO Series Game of Thrones.
 
