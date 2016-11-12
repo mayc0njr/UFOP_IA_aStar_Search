@@ -1,4 +1,12 @@
 ﻿# UFOP_IA_aStar_Search
+<pre> 
+   _____              __                    _________                          .__     
+  /  _  \      ______/  |______ _______    /   _____/ ____ _____ _______  ____ |  |__  
+ /  /_\  \    /  ___\   __\__  \\_  __ \   \_____  \_/ __ \\__  \\_  __ _/ ___\|  |  \ 
+/    |    \   \___ \ |  |  / __ \|  | \/   /        \  ___/ / __ \|  | \\  \___|   Y  \
+\____|__  /  /____  >|__| (____  |__|     /_______  /\___  (____  |__|   \___  |___|  /
+        \/        \/           \/                 \/     \/     \/           \/     \/
+</pre>        
 Implementação de um trabalho prático de busca heurística para a disciplina de Inteligência Artificial.
 
 Trabalho Busca Heuristica Inteligencia Artificial. Tema: Game of Thrones.
